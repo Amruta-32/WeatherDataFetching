@@ -15,4 +15,4 @@ DESCRIPTION OF TASK : This Java program fetches real-time weather data from the 
 
 
 OUTPUT:   
- 
+![Image](https://github.com/user-attachments/assets/242c039d-9329-47c7-a344-870608dfd03d) 
